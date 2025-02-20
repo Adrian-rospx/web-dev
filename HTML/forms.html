@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Forms</title>
+    </head>
+    <body>
+        <!--forms can perform actions with backend languages, like-->
+        <!--action="index.php" method="GET"/"POST"(http)-->
+        <form action="index.php" method="get" enctype="multipart/form-data">
+            
+            <label for="username">Username:</label>
+            <input type="text" id="username" minlength="6" maxlength="20" 
+                   placeholder="JohnDoe" required><br>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" minlength="6" maxlength="20" 
+                   required><br>
+
+            <label for="Email">Email:</label>
+            <input type="email" id="Email" placeholder="Johndoe@email.com"><br>
+
+            <label for="phone">Phone number:</label>
+            <input type="phone" id="phone" placeholder="123-456-7890" 
+                   pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"><br>
+
+            <label for="bday">Birthday:</label>
+            <input type="date" id="bday"><br>
+
+            <label for="quantity">Quantity:</label>
+            <input type="number" id="quantity" min="0" max="99" value="1"><br>
+
+            <label for="title">Title:</label>
+
+            <!--values need to have the same "name" to work as exclusive options-->
+            <label for="Mr.">Mr.</label>
+            <input type="radio" id="Mr." value="Mr." name="title">
+            <label for="Ms.">Ms.</label>
+            <input type="radio" id="Ms." value="Ms." name="title">
+            <label for="PhD.">PhD.</label>
+            <input type="radio" id="PhD." value="PhD." name="title"><br>
+
+            <label for="payment">Payment:</label>
+            <select name="" id="">
+                <option value="visa">visa</option>
+                <option value="mastercard">mastercard</option>
+                <option value="giftcard">giftcard</option>
+            </select><br>
+
+            <label for="star">star this repo!</label>
+            <input type="checkbox" id="star"><br>
+
+            <label for="comment">Comment:</label>
+            <textarea id="comment" cols="20" rows="3"></textarea><br>
+
+            <label for="file">Submit a file:</label>
+            <input type="file" id="file" accept="image/png, image/jpg"><br>
+
+            <input type="reset"><br>
+            <input type="submit">
+
+        </form>
+
+    </body>
+</html>
