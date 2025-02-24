@@ -1,0 +1,16 @@
+body{
+    background-color:aliceblue 
+}
+
+#p1{
+    color:#ff00ff
+}
+#p2{
+    color:rgb(82, 255, 151)
+}
+#p3{
+    color:hsl(209, 100%, 58%)
+}
+#p4{
+    color:orange
+}
