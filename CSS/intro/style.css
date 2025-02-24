@@ -1,0 +1,24 @@
+
+body{
+    background-color: black;
+}
+h1{
+    color:aqua
+}
+
+#p1{
+    color:red
+}
+#p2{
+    color:yellow
+}
+#p3{
+    color:green
+}
+#p4{
+    color:cyan
+}
+
+.even{
+    font-size:large
+}
