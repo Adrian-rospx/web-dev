@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Roboto light";
+    src: url(font\Roboto-VariableFont.ttf);
+}
+
+
+h1{
+    font-family: Verdana, Arial;
+}
+
+#s1{
+    font-family: 'Times New Roman', 'Courier New';
+    font-size: 0.5em;
+}
+
+#s2{
+    font-family: "Roboto light", "lucida console", 'Courier New';
+    font-size: 20px;
+    font-weight: bold;
+    font-style:italic;
+}
