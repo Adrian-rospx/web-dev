@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+.box{
+    border: 5px solid;
+    font-size: 5em;
+
+    width: 250px;
+    height: 160px
+}
+#box1{
+    margin-top: 50px;
+    background-color: orange;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+#box2{
+    background-color: teal;
+    margin-left: auto;
+}

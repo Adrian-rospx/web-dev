@@ -25,6 +25,6 @@ h1{
     height: 100px;
     width: 100px;
 
-    background-color: rgb(39, 73, 102);
-    box-shadow: 3px 3px 5px green;
+    background-color: rgb(65, 233, 255);
+    box-shadow: 3px 3px 5px rgb(0, 245, 0);
 }
