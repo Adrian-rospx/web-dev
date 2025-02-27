@@ -1,0 +1,20 @@
+h1{
+    border: dotted;
+    border-width: 5px;
+    border-color: aqua;
+    border-radius: 8px;
+}
+
+#p1{
+    border: 3px solid red;
+    border-radius: 10px;
+}
+
+#p2{
+    border-bottom: 3px solid yellow;
+    border-top: 2px ridge orange;
+    border-left: 3px dashed green;
+    border-right: 5px inset purple;
+    
+    border-radius: 10px;
+}
