@@ -1,0 +1,16 @@
+div{
+    /* divs take up all the space they can (by default)*/
+    background-color: rgb(255, 105, 105);
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+
+span{
+    /* by spans only take up the space needed */
+    background-color: rgb(96, 197, 255);
+    width: 100px;
+    height: 100px;
+    display: block;
+
+}
