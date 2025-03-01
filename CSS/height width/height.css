@@ -1,0 +1,20 @@
+* {
+    /* This makes the height calculation disregard padding and float */
+    box-sizing: border-box;
+}
+.container {
+    background-color: rebeccapurple;
+    height: 70vh;
+}
+.box{
+    background-color: aqua;
+    border: 2px solid;
+    height: auto;
+
+    padding: 20px;
+    width: 50%;
+    float: left;
+
+    text-align: center;
+    max-height: 50%;
+}
