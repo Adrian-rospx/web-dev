@@ -1,0 +1,24 @@
+#div1{
+    border: 2px solid red;
+    height: 50px;
+
+    /* Hidden - disables viewing the overflown text 
+       Auto - handles automatically and adds scroll bars
+     */
+    overflow: auto;
+}
+
+#div2{
+    border: 2px solid blue;
+    height: 50px;
+    /* This enables limited overflow */
+    overflow: clip;
+    overflow-clip-margin: 12px;
+}
+
+#div3{
+    border: 2px solid yellow;
+    height: 50px;
+    /* This enables limited overflow */
+    overflow: scroll;
+}
