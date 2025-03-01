@@ -1,0 +1,13 @@
+body{
+/*     
+    by default, the image repeats itself
+    if it doesn't fit, it display only part of it 
+ */
+    background-image: url(Waveform.jpg);
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+    background-size: cover;
+}

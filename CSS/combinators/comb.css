@@ -1,0 +1,16 @@
+#cont{
+    border: 5px solid;
+}
+
+#cont > p{
+    background-color: yellow;
+}
+
+#cont ~ p{
+    background-color: lightskyblue;
+}
+
+#cont + p{
+    /* P4 is the first adjactent sibling! */
+    background-color: aqua;
+}
