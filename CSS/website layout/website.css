@@ -1,0 +1,54 @@
+* {
+    /* Makes it so the size % calculation
+       doesn't include the  */
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: orange;
+    text-align: center;
+    padding: 25px;
+}
+
+.navbar {
+    background-color: hsl(0, 0%, 33%);
+    height: 50px;
+}
+
+aside {
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+section {
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
+article {
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
+
+footer {
+    display: block;
+    clear: both;
+    background-color: orange;
+    text-align: center;
+    padding: 25px;
+}
+
+@media screen and (max-width:600px) {
+    /* if device width is too small,
+       change the display to put the 
+       content vertically
+     */
+    aside, section, article{
+        width: 100%;
+    }
+}
