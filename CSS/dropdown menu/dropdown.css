@@ -1,0 +1,42 @@
+.dropdown{
+    /* This makes the div hover
+    only activate on the object itself */
+    display: inline;
+}
+
+.dropdown button{
+    /* change the look of the button */
+    background-color: rgb(50, 50, 50);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+.dropdown a{
+    /* change the look of the elements */
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 12px 20px;
+}
+.dropdown .content{
+    /* create look of the element boxes */
+    display: none;
+    position: absolute;
+    background-color: lightgray;
+    min-width: 100px;
+    box-shadow: 2px 2px 5px hsl(0, 0%, 50%, 80%);
+}
+.dropdown:hover .content{   
+    /* make elements appear when hovered over */
+    display: block;
+}
+.dropdown:hover button{
+    /* make dropdown change color when hovered over */
+    background-color: hsl(0, 0%, 40%);
+}
+
+.dropdown a:hover{
+    /* make text change when hovered over */
+    background-color: rgb(168, 168, 168);
+}
