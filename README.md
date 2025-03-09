@@ -1,8 +1,8 @@
-# Learning Web Dev basics
+# Learning Frontend basics
 
 After spending a few days learning about how computers and the internet works
-I decided to try making some practical projects. I don't think I'll
-pursue web development seriously, but I want to understand some of it.
+I decided to try making some practical projects. I want to at least understand
+web development better.
 
 #### Feb-24 -> Mar-09
 Learning CSS
