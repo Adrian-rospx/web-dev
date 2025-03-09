@@ -1,11 +1,11 @@
 # Learning Frontend basics
 
 After spending a few days learning about how computers and the internet works
-I decided to try making some practical projects. I want to at least understand
-web development better.
+I decided to moving on to practical applications. My goal is to understand
+web development better and make a few projects.
 
 #### Feb-24 -> Mar-09
-Learning CSS
+Learning CSS essentials, including transformations and animations
 
 #### Feb-20
 I learned the basics of **HTML** thanks to 

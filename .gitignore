@@ -1,3 +1,4 @@
+# exclude all media files
 *.mp3
 *.gif
 *.mp4
