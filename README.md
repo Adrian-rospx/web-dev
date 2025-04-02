@@ -4,6 +4,11 @@ After spending a few days learning about how computers and the internet works
 I decided to moving on to practical applications. My goal is to understand
 web development better and make a few projects.
 
+### Javascript
+[Tutorial video](https://www.youtube.com/watch?v=EerdGm-ehJQ)
+
+- Variables - Apr-02
+
 #### Feb-24 -> Mar-09
 Learning CSS essentials, including transformations and animations
 
