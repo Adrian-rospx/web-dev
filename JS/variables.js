@@ -7,6 +7,11 @@ const pi =  3.14159; // - constant values
 
 // Finding the type of a variable:
 
-let nit = 3.14;
+const nit = 3.14;
 console.log(typeof nit);
 console.log(typeof "Hello");
+
+// simple types:
+const num = 15; 
+num = 1.65;           // number
+const str = "cabala"; // string
