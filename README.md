@@ -10,6 +10,7 @@ web development better and make a few projects.
 - Variables - Apr-02
 - User input - Apr-13
 - math object - Apr-13
+- String methods - Apr-13
 
 #### Feb-24 -> Mar-09
 Learning CSS essentials, including transformations and animations

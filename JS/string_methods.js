@@ -27,5 +27,15 @@ let phoneNum = "012-345-6789";
 // remove character instances
 output = phoneNum.replaceAll("-", "");
 output = phoneNum.padStart(15, "-");// add padding to fit
-
 console.log(output);
+
+// slicing:
+let firstName = username.slice(0, 6);
+let lastName = username.slice(6);   // automatically goes to end
+console.log(firstName);
+console.log(lastName);
+
+// these methods may be chained:
+username = "  dArWiN DoNaLd  ";
+username = username.trim().charAt(0).toUpperCase() + username.trim().slice(1).toLowerCase();
+console.log(username);
