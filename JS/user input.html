@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Input</title>
+</head>
+<body>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis at exercitationem voluptatem quaerat vel temporibus facilis ducimus. Minus dolore ducimus beatae maiores, corrupti, numquam doloremque consectetur tempora recusandae, dolorum quibusdam!</p>
+
+    <!-- Text box: -->
+    <h2 id="welcome">Welcome</h2>
+    <label for="username">username:</label>
+    <input id="textbox"> <br>
+    <button id="submit button">Enter</button>
+
+<script>
+    // Using a prompt: 
+    let username = window.prompt("Enter your username!");
+    console.log(username);
+
+    // Using a textbox
+    document.getElementById("submit button").onclick = function(){
+        username = document.getElementById("textbox").value;
+        console.log(username);
+        document.getElementById("welcome").textContent = `Welcome, ${username}`;
+    }
+</script>
+</body>
+</html>

@@ -8,6 +8,7 @@ web development better and make a few projects.
 [Tutorial video](https://www.youtube.com/watch?v=EerdGm-ehJQ)
 
 - Variables - Apr-02
+- User input - Apr-13
 
 #### Feb-24 -> Mar-09
 Learning CSS essentials, including transformations and animations
