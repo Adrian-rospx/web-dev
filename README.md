@@ -8,11 +8,12 @@ web development better and make a few projects.
 [Tutorial video #1](https://www.youtube.com/watch?v=EerdGm-ehJQ)
 [Tutorial video #2](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
-- Variables - Apr-02
-- User input - Apr-13
-- Math object - Apr-13
-- String methods - Apr-13
+- Spread operator, rest parameters - Apr-14
 - Arrays - Apr-13
+- String methods - Apr-13
+- Math object - Apr-13
+- User input - Apr-13
+- Variables - Apr-02
 
 #### Feb-24 -> Mar-09
 Learning CSS essentials, including transformations and animations
