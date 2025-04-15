@@ -16,6 +16,7 @@ web development better and make a few projects.
 
 #### functions
 
+- function expressions - Apr-15
 - callbacks - Apr-14
 - Spread operator, rest parameters - Apr-14
 
