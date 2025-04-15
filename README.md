@@ -4,7 +4,7 @@ After spending a few days learning about how computers and the internet works
 I decided to moving on to practical applications. My goal is to understand
 web development better and make a few projects.
 
-### Javascript
+## Javascript
 [Tutorial video #1](https://www.youtube.com/watch?v=EerdGm-ehJQ)
 [Tutorial video #2](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
@@ -19,6 +19,10 @@ web development better and make a few projects.
 - function expressions - Apr-15
 - callbacks - Apr-14
 
+#### objects
+
+- Objects - Apr-15
+
 #### arrays
 
 - Arrays - Apr-13
@@ -26,7 +30,7 @@ web development better and make a few projects.
 - forEach - Apr-14
 - Spread operator, rest parameters - Apr-14
 
-### HTML, CSS
+## HTML, CSS
 Learning CSS essentials, including transformations and animations - Feb-24 -> Mar-09
 
 I learned the basics of **HTML** thanks to 
