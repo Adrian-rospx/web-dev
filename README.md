@@ -8,7 +8,6 @@ web development better and make a few projects.
 [Tutorial video #1](https://www.youtube.com/watch?v=EerdGm-ehJQ)
 [Tutorial video #2](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
-- forEach - Apr-14
 - String methods - Apr-13
 - Math object - Apr-13
 - User input - Apr-13
@@ -16,14 +15,16 @@ web development better and make a few projects.
 
 #### functions
 
+- arrow functions - Apr - 15
 - function expressions - Apr-15
 - callbacks - Apr-14
-- Spread operator, rest parameters - Apr-14
 
 #### arrays
 
 - Arrays - Apr-13
 - .map .filter .reduce - Apr-14
+- forEach - Apr-14
+- Spread operator, rest parameters - Apr-14
 
 ### HTML, CSS
 Learning CSS essentials, including transformations and animations - Feb-24 -> Mar-09
