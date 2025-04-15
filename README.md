@@ -15,20 +15,21 @@ web development better and make a few projects.
 
 #### functions
 
-- arrow functions - Apr - 15
+- arrow functions - Apr-15
 - function expressions
 - callbacks - Apr-14
 
 #### objects
 
-- Constructors - Apr-15
+- Classes - Apr-15
+- Constructors
 - Objects - Apr-15
 
 #### arrays
 
 - .map .filter .reduce - Apr-14
 - forEach
-- Spread operator, rest parameters - Apr-14
+- Spread operator, rest parameters
 - Arrays - Apr-13
 
 ## HTML, CSS
