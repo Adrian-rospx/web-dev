@@ -9,26 +9,27 @@ web development better and make a few projects.
 [Tutorial video #2](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
 - String methods - Apr-13
-- Math object - Apr-13
-- User input - Apr-13
+- Math object
+- User input
 - Variables - Apr-02
 
 #### functions
 
 - arrow functions - Apr - 15
-- function expressions - Apr-15
+- function expressions
 - callbacks - Apr-14
 
 #### objects
 
+- Constructors - Apr-15
 - Objects - Apr-15
 
 #### arrays
 
-- Arrays - Apr-13
 - .map .filter .reduce - Apr-14
-- forEach - Apr-14
+- forEach
 - Spread operator, rest parameters - Apr-14
+- Arrays - Apr-13
 
 ## HTML, CSS
 Learning CSS essentials, including transformations and animations - Feb-24 -> Mar-09
