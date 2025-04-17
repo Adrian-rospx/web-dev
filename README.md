@@ -5,7 +5,9 @@ I decided to moving on to practical applications. My goal is to understand
 web development better and make a few projects.
 
 ## Javascript
-[Tutorial video #1](https://www.youtube.com/watch?v=EerdGm-ehJQ)
+[Mozilla MDN Javascript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+[Tutorial video #1](https://www.youtube.com/watch?v=EerdGm-ehJQ)  
 [Tutorial video #2](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 
 - String methods - Apr-13
